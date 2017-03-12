@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nnvu-fit/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Group Web</title>
+	<link rel="stylesheet" type="text/css" href="default.css">
+	<meta charset="utf-8" />
+</head>
+<body>
+<img src="./images/groupweb.jpg" alt="intro" usemap="#group" align="center">
+	<map name="group">
+		<area shape="rect" coords="300,90,520,400" alt="phong" href="./members/1412676/1412676.html">
+		<area shape="rect" coords="520,90,760,400" alt="trung" href="./members/1412588/1412588.html">
+		<area shape="rect" coords="760,90,1000,400" alt="Venus" href="./members/1412647/1412647.html">
+	</map>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nnvu-fit/helloworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	<h1 align = "center"> Hello World Group</h1>
+	<table>
+	<tr>
+		<th>Name</th>
+		<th>ID</th> 
+	</tr>
+	<tr>
+		<td>Bùi Hoài Phong</td>
+		<td>1412676</td>
+	</tr>  
+	<tr>   
+		<td>Lưu Quốc Trung</td>
+		<td>1412588</td>
+	</tr>  
+	<tr>   
+		<td>Nguyễn Ngọc Vũ</td>
+		<td>1412647</td>
+	</tr>
+</table>
+</body>
+</html>
